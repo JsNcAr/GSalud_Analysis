@@ -1,5 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python,linux,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,python,linux,visualstudiocode
+# User-specific files
+*/Images/*
+*/.ipynb_checkpoints/*
+*/.vscode/*
 
 # ignore keys.txt
 keys.txt
