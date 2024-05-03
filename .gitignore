@@ -4,6 +4,8 @@
 */Images/*
 */.ipynb_checkpoints/*
 */.vscode/*
+# Ignore .png files
+*.png
 
 # ignore keys.txt
 keys.txt

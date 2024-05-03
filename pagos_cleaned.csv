@@ -1,0 +1,138 @@
+Index,Fecha,Paciente,Valor,Actividades,Actividad_1,Actividad_2,Actividad_3,Metodo_de_pago
+0,2023-06-09,Manfry Ariza,60000,valoracion,valoracion,,,Datafono
+1,2023-06-09,Nazly Avila,185000,"montaje,retiro",montaje,retiro,,Nequi
+2,2023-06-09,Paula Hernandez,25000,radiografia,radiografia,,,Efectivo
+3,2023-06-09,Kevin Santiago Soto,105000,"control,reparacion",control,reparacion,,Efectivo
+4,2023-06-09,Laura Cupa,60000,control,control,,,Datafono
+5,2023-06-09,Nicole Daniela Benavides,300000,bichectomia,bichectomia,,,Nequi
+6,2023-06-09,Paula Camila Hernandez,50000,"limpieza,braquets",limpieza,braquets,,Efectivo
+7,2023-06-09,Paula Camila Hernandez,100000,"limpieza,braquets",limpieza,braquets,,Nequi
+8,2023-06-09,Maria Ines,1000000,"botox,hilos",botox,hilos,,Efectivo
+9,2023-06-09,Nicol Daniela,180000,faja,faja,,,Nequi
+40,2023-06-10,Katherine Veloza,670000,"lipopapada,bichectomia",lipopapada,bichectomia,,Efectivo
+41,2023-06-10,Karol Parra,170000,bichectomia,bichectomia,,,Efectivo
+42,2023-06-10,Karol Parra,30000,faja,faja,,,Efectivo
+43,2023-06-10,Wilmar Muñoz,65000,"control,cauchos",control,cauchos,,Nequi
+44,2023-06-10,Cristian Sosa,60000,control,control,,,Datafono
+45,2023-06-10,Juan Carlos Posada,65000,"control,cauchos",control,cauchos,,Efectivo
+46,2023-06-10,Juan Carlos Posada,80000,limpieza,limpieza,,,Efectivo
+47,2023-06-10,Esteban Diaz,60000,control,control,,,Nequi
+48,2023-06-10,Adriana Diaz,60000,control,control,,,Nequi
+49,2023-06-10,Sebastian Diaz,60000,control,control,,,Nequi
+50,2023-06-10,Sebastian Diaz,30000,reparacion,reparacion,,,Nequi
+51,2023-06-10,Sandra Moya,80000,limpieza,limpieza,,,Efectivo
+52,2023-06-10,Jessica Sierra,60000,control,control,,,Efectivo
+53,2023-06-10,Allison Muñoz,60000,control,control,,,Datafono
+54,2023-06-10,Allison Muñoz,20000,"reparacion,cauchos",reparacion,cauchos,,Datafono
+55,2023-06-10,Heidy Osorio,230000,hilos,hilos,,,Datafono
+56,2023-06-10,Aura Yamile,780000,"lipopapada,bichectomia",lipopapada,bichectomia,,Datafono
+57,2023-06-10,Aura Yamile,50000,faja,faja,,,Efectivo
+59,2023-06-10,Cambiar,460000,hilos,hilos,,,Transferencia
+204,2023-06-14,Leidy Muñoz,60000,control,control,,,Efectivo
+205,2023-06-14,Javier Arroyo,50000,limpieza,limpieza,,,Efectivo
+206,2023-06-14,Amparo Cardona,70000,calsa,calsa,,,Efectivo
+207,2023-06-14,Lorena Villamarin,150000,retenedores,retenedores,,,Efectivo
+208,2023-06-14,Kelly Castaño,60000,control,control,,,Datafono
+209,2023-06-14,Yolima Montero,850000,"bichectomia,lipopapada",bichectomia,lipopapada,,Datafono
+210,2023-06-14,Atenais Peña,200000,protesis,protesis,,,Efectivo
+211,2023-06-14,Lucia Infante,130000,"limpieza,exodoncia",limpieza,exodoncia,,Efectivo
+286,2023-06-16,Jordano Gonzalez,75000,"control,reparacion",control,reparacion,,Efectivo
+287,2023-06-16,Marcela Ramirez,65000,control,control,,,Efectivo
+288,2023-06-16,Yesica Lugo,75000,"control,reparacion",control,reparacion,,Datafono
+289,2023-06-16,Tatiana Upegui,60000,control,control,,,Nequi
+290,2023-06-16,Jose Ignacio,80000,limpieza,limpieza,,,Efectivo
+291,2023-06-16,Jeferson Tarazona,56000,control,control,,,Transferencia
+292,2023-06-16,Jeferson Tarazona,4000,control,control,,,Efectivo
+294,2023-06-16,Guisela Villalba,75000,"control,reparacion",control,reparacion,,Efectivo
+295,2023-06-16,Wilber Botacha,185000,"control,reparacion,cauchos",control,reparacion,cauchos,Efectivo
+296,2023-06-16,Mayerlyn Cubillan,60000,control,control,,,Efectivo
+297,2023-06-16,Juan Camilo Narvaes,60000,control,control,,,Nequi
+298,2023-06-16,Valentina Rozo,90000,"control,reparacion",control,reparacion,,Efectivo
+299,2023-06-16,Carlos Alberto Barbosa,550000,lipopapada,lipopapada,,,Datafono
+300,2023-06-16,Ingrid Devia,60000,retenedores,retenedores,,,Datafono
+301,2023-06-16,Ingrid Devia,60000,retenedores,retenedores,,,Transferencia
+450,2023-06-20,Sara Araque,60000,control,control,,,Efectivo
+451,2023-06-20,Jaime Velasques,60000,control,control,,,Datafono
+452,2023-06-20,Javier Pinzon,75000,"control,reparacion",control,reparacion,,Nequi
+453,2023-06-20,Andrea Ortiz,60000,control,control,,,Datafono
+454,2023-06-20,Wendy Diaz,80000,"control,reparacion,cauchos",control,reparacion,cauchos,Efectivo
+455,2023-06-20,Vanesa Silva,65000,"control,cauchos",control,cauchos,,Efectivo
+456,2023-06-20,Vilma Ester,150000,"limpieza,montaje",limpieza,montaje,,Efectivo
+457,2023-06-20,Ana Malagon,80000,resina,resina,,,Datafono
+458,2023-06-20,Ana Malagon,65000,"control,cauchos",control,cauchos,,Datafono
+459,2023-06-20,Sandra Ortiz,60000,control,control,,,Nequi
+460,2023-06-20,Belisario Barrios,75000,"control,reparacion",control,reparacion,,Efectivo
+533,2023-06-22,Maria Camila Velasquez,50000,limpieza,limpieza,,,Efectivo
+537,2023-06-22,Maria Camila Velasquez,20000,kit,kit,,,Nequi
+573,2023-06-23,Johana Martinez,350000,"lipopapada,faja",lipopapada,faja,,Efectivo
+574,2023-06-23,Alejandra Beltran,300000,bichectomia,bichectomia,,,Datafono
+575,2023-06-23,Alejandra Beltran,30000,faja,faja,,,Datafono
+576,2023-06-23,Ramon Gonzales,50000,limpieza,limpieza,,,Efectivo
+577,2023-06-23,Ramon Gonzales,70000,resina,resina,,,Efectivo
+614,2023-06-24,Paola Piñeros,95000,"control,reparacion,cauchos",control,reparacion,cauchos,Efectivo
+615,2023-06-24,Jenny Baron,60000,control,control,,,Nequi
+616,2023-06-24,Atenais Peña,200000,protesis,protesis,,,Efectivo
+617,2023-06-24,Liliana Muñoz,500000,lipopapada,lipopapada,,,Efectivo
+618,2023-06-24,Diana Sanabria,75000,"control,reparacion",control,reparacion,,Nequi
+619,2023-06-24,Valeria Sarria,30000,faja,faja,,,Efectivo
+620,2023-06-24,Valeria Sarria,300000,bichectomia,bichectomia,,,Transferencia
+696,2023-06-26,Sofia Castro,100000,extraccion,extraccion,,,Efectivo
+697,2023-06-26,Angelly Rodriguez,75000,"control,reparacion",control,reparacion,,Efectivo
+698,2023-06-26,Leidy Rubio,20000,kit,kit,,,Efectivo
+699,2023-06-26,Jenifer Sanpoyo,300000,bichectomia,bichectomia,,,Efectivo
+700,2023-06-26,Jenifer Sanpoyo,30000,faja,faja,,,Efectivo
+701,2023-06-26,Jeronimo Gonzales,60000,control,control,,,Efectivo
+702,2023-06-26,Jeronimo Gonzales,100000,extraccion,extraccion,,,Efectivo
+703,2023-06-26,Juan Camilo Hernandes,80000,limpieza,limpieza,,,Datafono
+704,2023-06-26,Juan Camilo Hernandes,25000,radiografia,radiografia,,,Datafono
+705,2023-06-26,Laura Alonso,25000,radiografia,radiografia,,,Datafono
+737,2023-06-27,Sofia Bautista,60000,control,control,,,Efectivo
+738,2023-06-27,Sebgtra Galub,60000,control,control,,,Efectivo
+739,2023-06-27,Wilmer Yepes,175000,"control,exodoncia",control,exodoncia,,Nequi
+740,2023-06-27,Jimmy Vanegas,75000,"control,reparacion",control,reparacion,,Efectivo
+778,2023-06-28,Julio Cesar Gonzales,90000,"control,reparacion",control,reparacion,,Datafono
+779,2023-06-28,Angie Garcia,50000,limpieza,limpieza,,,Efectivo
+780,2023-06-28,Karol Funeque,90000,"control,reparacion",control,reparacion,,Efectivo
+819,2023-06-29,Kevin Nocove,90000,"control,reparacion",control,reparacion,,Efectivo
+820,2023-06-29,Jeffry Garcia,60000,control,control,,,Efectivo
+821,2023-06-29,Magaly Meneses,80000,"control,reparacion,cauchos",control,reparacion,cauchos,Efectivo
+860,2023-06-30,Lina Maria Villa,550000,lipopapada,lipopapada,,,Nequi
+861,2023-06-30,Carol Barragan,60000,control,control,,,Efectivo
+862,2023-06-30,Lizeth Vargas,300000,bichectomia,bichectomia,,,Efectivo
+863,2023-06-30,Lizeth Vargas,30000,faja,faja,,,Efectivo
+864,2023-06-30,Atenais Peña,800000,protesis,protesis,,,Efectivo
+865,2023-06-30,Julieth Espinosa,250000,lipopapada,lipopapada,,,Efectivo
+866,2023-06-30,Julieth Espinosa,270000,lipopapada,lipopapada,,,Datafono
+867,2023-06-30,Julieth Espinosa,30000,faja,faja,,,Datafono
+868,2023-06-30,Juan Camilo Hernandes,280000,resina,resina,,,Datafono
+869,2023-06-30,Heidy Ruiz,460000,retenedores,retenedores,,,Nequi
+901,2023-07-01,Marcela Guzman,60000,control,control,,,Nequi
+902,2023-07-01,Alejandra Perez,90000,"control,reparacion",control,reparacion,,Efectivo
+903,2023-07-01,Anderson Lopez,60000,control,control,,,Efectivo
+904,2023-07-01,Valentina Serroa,60000,control,control,,,Efectivo
+905,2023-07-01,Karen Yulieth,60000,control,control,,,Datafono
+906,2023-07-01,Daniela Sanabria,75000,"control,reparacion",control,reparacion,,Nequi
+907,2023-07-01,Dylan Avila,40000,control,control,,,Efectivo
+908,2023-07-01,Maria Camila Hernandes,75000,"control,reparacion",control,reparacion,,Datafono
+909,2023-07-01,Jaimy Osorio,410000,"hilos,retenedores",hilos,retenedores,,Datafono
+910,2023-07-01,Jenifer Flores,60000,control,control,,,Efectivo
+911,2023-07-01,Ricardo Gonzales,75000,"control,reparacion",control,reparacion,,Nequi
+912,2023-07-01,Dariana Reyes,40000,control,control,,,Efectivo
+913,2023-07-01,Cristian Barbosa,70000,"control,reparacion",control,reparacion,,Efectivo
+914,2023-07-01,Paula Mancera,70000,"control,reparacion",control,reparacion,,Nequi
+915,2023-07-01,Karen Urrego,75000,"control,reparacion",control,reparacion,,Efectivo
+916,2023-07-01,Saray Barreto,105000,"control,reparacion",control,reparacion,,Efectivo
+917,2023-07-01,Camilo Zarate,75000,"control,reparacion",control,reparacion,,Nequi
+918,2023-07-01,Diego Bustos,65000,"control,cauchos",control,cauchos,,Datafono
+919,2023-07-01,Miguel Vargas,195000,"control,reparacion",control,reparacion,,Datafono
+920,2023-07-01,Sara Lozano,90000,"control,reparacion",control,reparacion,,Datafono
+921,2023-07-01,Daniel Pachon,75000,"control,reparacion",control,reparacion,,Datafono
+922,2023-07-01,Valentina Forero,75000,"control,reparacion",control,reparacion,,Efectivo
+923,2023-07-01,Natalia Collados,75000,"control,reparacion",control,reparacion,,Datafono
+924,2023-07-01,Natalia Collados,25000,radiografia,radiografia,,,Datafono
+925,2023-07-01,Carmen Mojica,50000,control,control,,,Efectivo
+926,2023-07-01,Carmen Mojica,10000,control,control,,,Transferencia
+927,2023-07-01,Lizeth Vargas,230000,"papada,encimas",papada,encimas,,Efectivo
+58,2023-06-10,Luz Angela,150000,Tratamiento Odontologico,Tratamiento Odontologico,,,Efectivo
+293,2023-06-16,Laura Castro,60000,Consulta General,Consulta General,,,Nequi
+928,2023-07-01,Maria Paula Correa,100000,Placa Activada,Placa Activada,,,Datafono
