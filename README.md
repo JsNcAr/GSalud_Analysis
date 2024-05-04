@@ -1,8 +1,8 @@
 # Financial Data Analysis of the Dental Clinic GSalud / Análisis de Datos Financieros de la Clínica Odontologica GSalud
 
-**Languages / Idiomas**: 🇺🇸 [English](#🇺🇸-english) | 🇪🇸 [Español](#🇪🇸-español)
+**Languages / Idiomas**: 🇺🇸 [English](#english) | 🇪🇸 [Español](#español)
 
-## 🇺🇸 English
+## English
 
 ### Table of Contents
 
@@ -86,7 +86,7 @@ After conducting the exploratory data analysis (EDA) of the dentist clinic's dat
 
 ---
 
-## 🇪🇸 Español
+## Español
 
 ### Tabla de Contenidos
 
